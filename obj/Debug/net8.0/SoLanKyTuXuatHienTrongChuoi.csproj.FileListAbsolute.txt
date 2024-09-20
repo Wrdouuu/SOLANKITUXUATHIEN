@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.exe
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.deps.json
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.dll
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\bin\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.pdb
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.dll
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\refint\SoLanKyTuXuatHienTrongChuoi.dll
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.pdb
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\SoLanKyTuXuatHienTrongChuoi.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\SoLanKyTuXuatHienTrongChuoi\obj\Debug\net8.0\ref\SoLanKyTuXuatHienTrongChuoi.dll
